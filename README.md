@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web3 and full MERN Stack development 
 - 💞️ I’m looking to collaborate on any web app project 
 - 📫 How to reach me via email @ - stephenfelix074@gmail.com
-     Or via WhatsApp @ - +2348084546484
+     Or via WhatsApp @ - +2347065010423
 
 <!---
 GinMeek/GinMeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
